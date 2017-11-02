@@ -2,5 +2,4 @@
 layout: default
 permalink: bitcoin
 ---
-
-This is a stub
+![Bitcoin reality](https://i.imgur.com/oBXm1id.jpg)
